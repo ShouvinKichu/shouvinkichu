@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-##About Me
+## About Me
 
 I'm a fresher in Computer Science Engneering at Sathyabama Institute of Science and Technology
-
+ 
+<br>
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Machine Learning
