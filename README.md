@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm currently in my final year in Computer Science Engineering at Sathyabama Institute of Science and Technology
+I'm in my final year of Computer Science Engineering at the Sathyabama Institute of Science and Technology.
  
 <br>
 
